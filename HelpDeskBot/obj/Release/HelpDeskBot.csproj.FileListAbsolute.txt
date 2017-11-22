@@ -1,0 +1,44 @@
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\Bot Application.dll.config
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\Bot Application.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\Bot Application.pdb
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\AdaptiveCards.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\Autofac.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\Chronic.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\Newtonsoft.Json.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\System.Net.Http.Formatting.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\System.Web.Http.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\System.Web.Http.WebHost.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\Autofac.xml
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\Newtonsoft.Json.xml
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\System.Net.Http.Formatting.xml
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\System.Web.Http.xml
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\System.Web.Http.WebHost.xml
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\obj\Release\HelpDeskBot.csprojResolveAssemblyReference.cache
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\obj\Release\Bot Application.dll
+C:\Users\jansy\OneDrive - Microsoft\Repos\HelpDeskBot\HelpDeskBot\obj\Release\Bot Application.pdb
